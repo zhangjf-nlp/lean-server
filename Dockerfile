@@ -1,4 +1,4 @@
-FROM ghcr.io/docker-library/python:3.12-slim
+FROM python:3.12-slim
 
 # 构建参数 - 使用 v4.15.0 版本
 ARG LEAN_SERVER_LEAN_VERSION=v4.15.0
