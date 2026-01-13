@@ -26,5 +26,5 @@ jobs:
         context: .
         push: true
         tags: |
-          yourusername/lean-server:v4.15.0
-          yourusername/lean-server:latest
+          zhangjfbuaa/lean-server:v4.15.0
+          zhangjfbuaa/lean-server:latest
